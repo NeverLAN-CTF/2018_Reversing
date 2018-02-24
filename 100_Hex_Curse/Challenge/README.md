@@ -11,7 +11,7 @@ Someone put a curse, or was it a hex, on the Krusty Krab. Clear the curse.
 -----------------------------------------------------------------
 
 ## Hint 1
-Who put the curse on the Kursty Krab? (lower case)
+Who put the curse on the Kursty Krab? (lower case, no spaces)
 
 ## Hint 2
 Find the curse and give the name
